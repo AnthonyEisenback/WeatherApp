@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="location">location</string>
+    <string name="action_settings">settings</string>
+    <string name="location_hint">Location</string>
+    <string name="darksky">Powered By \n Dark Sky</string>
+    <string name="weather_location">Weather for\n%1$s</string>
+</resources>
